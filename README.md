@@ -1,1 +1,1 @@
-# Curso-em-v-deo-Python
+# Curso-em-vídeo-Python
