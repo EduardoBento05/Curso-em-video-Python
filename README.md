@@ -1,1 +1,3 @@
-# Curso-em-vídeo-Python
+# Curso-em-vídeo-Python :snake:
+
+
